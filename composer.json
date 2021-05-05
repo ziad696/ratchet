@@ -8,5 +8,12 @@
             "email": "ziad.ahsani66@gmail.com"
         }
     ],
-    "require": {}
+    "autoload": {
+        "psr-4": {
+            "MyApp\\": "src"
+        }
+    },
+    "require": {
+        "cboden/ratchet": "^0.4.3"
+    }
 }
