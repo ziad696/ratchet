@@ -1,0 +1,12 @@
+{
+    "name": "lxy/ratchet",
+    "description": "Learn php websocket ratchet implementation",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ziad696",
+            "email": "ziad.ahsani66@gmail.com"
+        }
+    ],
+    "require": {}
+}
